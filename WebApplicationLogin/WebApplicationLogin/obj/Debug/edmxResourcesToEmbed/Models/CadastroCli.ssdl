@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BDClienteModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Clientes">
+    <Key>
+      <PropertyRef Name="ID_cli" />
+    </Key>
+    <Property Name="ID_cli" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NOME_USUARIO" Type="varchar" MaxLength="50" />
+    <Property Name="LOGIN" Type="varchar" MaxLength="20" />
+    <Property Name="EMAIL" Type="varchar" MaxLength="50" />
+    <Property Name="SENHA" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityContainer Name="BDClienteModel1StoreContainer">
+    <EntitySet Name="Clientes" EntityType="Self.Clientes" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

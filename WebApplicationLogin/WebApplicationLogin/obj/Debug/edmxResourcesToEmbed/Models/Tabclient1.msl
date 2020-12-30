@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BDClienteModelStoreContainer" CdmEntityContainer="BDClienteEntities3">
+    <EntitySetMapping Name="Tabclient">
+      <EntityTypeMapping TypeName="BDClienteModel.Tabclient">
+        <MappingFragment StoreEntitySet="Tabclient">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="NOME_USUARIO" ColumnName="NOME_USUARIO" />
+          <ScalarProperty Name="LOGIN" ColumnName="LOGIN" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="SENHA" ColumnName="SENHA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

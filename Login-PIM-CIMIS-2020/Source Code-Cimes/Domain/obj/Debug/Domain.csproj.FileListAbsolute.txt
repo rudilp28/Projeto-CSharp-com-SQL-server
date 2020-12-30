@@ -1,0 +1,108 @@
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Domain\bin\Debug\Domain.dll
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Domain\bin\Debug\Domain.pdb
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Domain\bin\Debug\DataAccess.dll
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Domain\bin\Debug\DataAccess.pdb
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Domain\obj\Debug\Domain.dll
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Domain\obj\Debug\Domain.pdb
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Domain\bin\Debug\Common.dll
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Domain\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Domain\bin\Debug\Domain.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Domain\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Domain\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Domain\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Domain\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Domain\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Domain\obj\Debug\Domain.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Domain\obj\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Domain\bin\Debug\Domain.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Domain\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Domain\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Domain\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Domain\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Domain\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Domain\obj\Debug\Domain.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Domain\obj\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Domain\bin\Debug\Domain.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Domain\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Domain\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Domain\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Domain\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Domain\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Domain\obj\Debug\Domain.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Domain\obj\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Domain\bin\Debug\Domain.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Domain\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Domain\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Domain\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Domain\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Domain\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Domain\obj\Debug\Domain.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Domain\obj\Debug\Domain.pdb
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Domain\bin\Debug\Domain.dll
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Domain\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Domain\bin\Debug\Common.dll
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Domain\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Domain\bin\Debug\Common.pdb
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Domain\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Domain\obj\Debug\Domain.dll
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Domain\obj\Debug\Domain.pdb
+E:\LoginLayeredCSharp Complete project C#\Domain\bin\Debug\Domain.dll
+E:\LoginLayeredCSharp Complete project C#\Domain\bin\Debug\Domain.pdb
+E:\LoginLayeredCSharp Complete project C#\Domain\bin\Debug\Common.dll
+E:\LoginLayeredCSharp Complete project C#\Domain\bin\Debug\DataAccess.dll
+E:\LoginLayeredCSharp Complete project C#\Domain\bin\Debug\Common.pdb
+E:\LoginLayeredCSharp Complete project C#\Domain\bin\Debug\DataAccess.pdb
+E:\LoginLayeredCSharp Complete project C#\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\LoginLayeredCSharp Complete project C#\Domain\obj\Debug\Domain.dll
+E:\LoginLayeredCSharp Complete project C#\Domain\obj\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Domain\bin\Debug\Domain.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Domain\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Domain\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Domain\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Domain\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Domain\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Domain\obj\Debug\Domain.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Domain\obj\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\Domain.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Domain\obj\Debug\Domain.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Domain\obj\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\MySql.Data.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\Google.Protobuf.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\BouncyCastle.Crypto.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\MySql.Data.xml
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\Google.Protobuf.xml
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\Domain.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\Domain.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\Common.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\DataAccess.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\Common.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Domain\obj\Debug\Domain.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Domain\obj\Debug\Domain.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Domain\bin\Debug\Domain.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Domain\bin\Debug\Domain.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Domain\bin\Debug\Common.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Domain\bin\Debug\DataAccess.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Domain\bin\Debug\Common.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Domain\obj\Debug\Domain.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Domain\obj\Debug\Domain.pdb

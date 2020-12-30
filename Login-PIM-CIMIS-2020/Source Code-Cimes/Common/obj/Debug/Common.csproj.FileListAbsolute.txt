@@ -1,0 +1,41 @@
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Common\bin\Debug\Common.dll
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Common\bin\Debug\Common.pdb
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Common\obj\Debug\Common.dll
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Common\obj\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Common\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Common\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Common\obj\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Common\obj\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Common\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Common\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Common\obj\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Common\obj\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Common\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Common\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Common\obj\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Common\obj\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Common\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Common\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Common\obj\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Common\obj\Debug\Common.pdb
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Common\bin\Debug\Common.dll
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Common\bin\Debug\Common.pdb
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Common\obj\Debug\Common.dll
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Common\obj\Debug\Common.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Common\bin\Debug\Common.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Common\bin\Debug\Common.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Common\obj\Debug\Common.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Common\obj\Debug\Common.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Common\bin\Debug\Common.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Common\bin\Debug\Common.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Common\obj\Debug\Common.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Common\obj\Debug\Common.pdb

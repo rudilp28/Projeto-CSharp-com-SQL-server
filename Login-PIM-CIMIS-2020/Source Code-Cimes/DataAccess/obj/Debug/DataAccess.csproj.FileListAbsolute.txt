@@ -1,0 +1,82 @@
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\DataAccess\bin\Debug\DataAccess.dll
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\DataAccess\bin\Debug\DataAccess.pdb
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.dll
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.pdb
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\DataAccess\bin\Debug\Common.dll
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\DataAccess\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\DataAccess\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\DataAccess\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\DataAccess\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\DataAccess\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\DataAccess\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\DataAccess\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\DataAccess\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\DataAccess\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\DataAccess\obj\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\DataAccess\obj\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\DataAccess\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\DataAccess\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\DataAccess\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\DataAccess\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\DataAccess\obj\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\DataAccess\obj\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\DataAccess\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\DataAccess\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\DataAccess\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\DataAccess\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\DataAccess\obj\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\DataAccess\obj\Debug\DataAccess.pdb
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\DataAccess\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\DataAccess\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\DataAccess\bin\Debug\Common.dll
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\DataAccess\bin\Debug\Common.pdb
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\DataAccess\obj\Debug\DataAccess.dll
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\DataAccess\obj\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\obj\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\obj\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\BouncyCastle.Crypto.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\Google.Protobuf.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\MySql.Data.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\Google.Protobuf.xml
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\MySql.Data.xml
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\Common.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\Google.Protobuf.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\Common.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\Google.Protobuf.xml
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\bin\Debug\MySql.Data.xml
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\DataAccess\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\DataAccess\bin\Debug\Common.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\DataAccess\bin\Debug\Google.Protobuf.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\DataAccess\bin\Debug\Common.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\DataAccess\bin\Debug\Google.Protobuf.xml
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\DataAccess\bin\Debug\MySql.Data.xml
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,312 @@
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\bin\Debug\Presentation.exe.config
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\bin\Debug\Presentation.exe
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\bin\Debug\Presentation.pdb
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\bin\Debug\Domain.dll
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\bin\Debug\DataAccess.dll
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\bin\Debug\Domain.pdb
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\bin\Debug\DataAccess.pdb
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.FormLogin.resources
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.FormPrincipal.resources
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.exe
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.pdb
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\bin\Debug\Common.dll
+D:\Programacion\2019\C Sharp\LoginLayeredCSharp\Presentation\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\bin\Debug\Presentation.exe.config
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.exe
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\bin\Debug\Presentation.exe
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\bin\Debug\Presentation.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\bin\Debug\Domain.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.Form1.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.Form2.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.FormLogin.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.FormMainMenu.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\bin\Debug\Presentation.exe.config
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\obj\Debug\Presentation.exe
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\obj\Debug\Presentation.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\bin\Debug\Presentation.exe
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\bin\Debug\Presentation.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\bin\Debug\Domain.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\obj\Debug\Presentation.Form1.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\obj\Debug\Presentation.Form2.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\obj\Debug\Presentation.FormLogin.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\obj\Debug\Presentation.FormMainMenu.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions\Presentation\obj\Debug\Presentation.Administration.MainMenuAdmin.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\bin\Debug\Presentation.exe.config
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\obj\Debug\Presentation.exe
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\obj\Debug\Presentation.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\bin\Debug\Presentation.exe
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\bin\Debug\Presentation.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\bin\Debug\Domain.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\obj\Debug\Presentation.Administration.MainMenuAdmin.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\obj\Debug\Presentation.Form1.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\obj\Debug\Presentation.Form2.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\obj\Debug\Presentation.FormLogin.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\obj\Debug\Presentation.FormMainMenu.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Permissions+PasswordRecovery\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\bin\Debug\Presentation.exe.config
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\bin\Debug\Presentation.exe
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\bin\Debug\Presentation.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\bin\Debug\CircularProgressBar.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\bin\Debug\Domain.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\bin\Debug\WinFormAnimation.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\obj\Debug\Presentation.Form1.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\obj\Debug\Presentation.Form2.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\obj\Debug\Presentation.FormLogin.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\obj\Debug\Presentation.FormMainMenu.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\obj\Debug\Presentation.exe
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\obj\Debug\Presentation.pdb
+D:\RJ Code Advance\Source Code C#\2019\LoginLayeredCSharp + Welcome Screem\Presentation\obj\Debug\Presentation.FormWelcome.resources
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\Presentation.exe.config
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.exe
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.pdb
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.Form1.resources
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.Form2.resources
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.FormCreateUser.resources
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.FormLogin.resources
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.FormMainMenu.resources
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.FormWelcome.resources
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\Presentation.exe
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\Presentation.pdb
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\CircularProgressBar.dll
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\Common.dll
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\Domain.dll
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\Common.pdb
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.FormUserProfile.resources
+D:\RJ Code Advance\Test Projects\2019\C Sharp\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.FormCustomPopup.resources
+E:\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\Presentation.exe.config
+E:\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.exe
+E:\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.pdb
+E:\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\Presentation.exe
+E:\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\Presentation.pdb
+E:\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\CircularProgressBar.dll
+E:\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\Common.dll
+E:\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\Domain.dll
+E:\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\DataAccess.dll
+E:\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\Common.pdb
+E:\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\Domain.pdb
+E:\LoginLayeredCSharp Complete project C#\Presentation\bin\Debug\DataAccess.pdb
+E:\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+E:\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.Form1.resources
+E:\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.Form2.resources
+E:\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.FormCreateUser.resources
+E:\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.FormCustomPopup.resources
+E:\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.FormLogin.resources
+E:\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.FormMainMenu.resources
+E:\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+E:\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.FormUserProfile.resources
+E:\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.FormWelcome.resources
+E:\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+E:\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+E:\LoginLayeredCSharp Complete project C#\Presentation\obj\Debug\Presentation.Test_Forms.Form3.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\bin\Debug\Presentation.exe.config
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\obj\Debug\Presentation.exe
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\obj\Debug\Presentation.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\bin\Debug\Presentation.exe
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\bin\Debug\Presentation.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\bin\Debug\CircularProgressBar.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\bin\Debug\Domain.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\obj\Debug\Presentation.Form1.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\obj\Debug\Presentation.Form2.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\obj\Debug\Presentation.Test_Forms.Form3.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\obj\Debug\Presentation.FormCreateUser.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\obj\Debug\Presentation.FormCustomPopup.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\obj\Debug\Presentation.FormLogin.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\obj\Debug\Presentation.FormMainMenu.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\obj\Debug\Presentation.FormUserProfile.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\obj\Debug\Presentation.FormWelcome.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp SQL Server\Source Code\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\Presentation.exe.config
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\Presentation.exe
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\Presentation.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\CircularProgressBar.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\Domain.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.Form1.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.Form2.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.Test_Forms.Form3.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.FormCreateUser.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.FormCustomPopup.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.FormLogin.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.FormMainMenu.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.FormUserProfile.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.FormWelcome.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.exe
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\MySql.Data.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\Google.Protobuf.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\BouncyCastle.Crypto.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\MySql.Data.xml
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\Google.Protobuf.xml
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\Presentation.exe
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\Common.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\Domain.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\DataAccess.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\Common.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\Domain.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.Form2.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.Test_Forms.Form3.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.FormCreateUser.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.FormCustomPopup.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.FormLogin.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.FormMainMenu.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.FormUserProfile.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.FormWelcome.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.exe
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Complete Login Project-C-Sharp MySQL\Source Code\Presentation\obj\Debug\Presentation.Test_Forms.Form4.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.Form2.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.Test_Forms.Form3.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.Test_Forms.Form4.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.FormCreateUser.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.FormCustomPopup.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.FormLogin.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.FormMainMenu.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.FormUserProfile.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.FormWelcome.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.exe
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\bin\Debug\Presentation.exe
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\bin\Debug\Common.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\bin\Debug\Domain.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\bin\Debug\DataAccess.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\bin\Debug\Common.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\bin\Debug\Domain.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\Presentation.exe
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\Common.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\Domain.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\DataAccess.dll
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\Common.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\Domain.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.Form2.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.Test_Forms.Form3.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.Test_Forms.Form4.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.FormCreateUser.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.FormCustomPopup.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.FormLogin.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.FormMainMenu.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.FormUserProfile.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.FormWelcome.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.exe
+C:\Users\Rudinei\Desktop\Rudi-Compra-Login\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\Presentation.exe
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\Common.dll
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\Domain.dll
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\DataAccess.dll
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\Common.pdb
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\Domain.pdb
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.Form2.resources
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.Test_Forms.Form3.resources
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.Test_Forms.Form4.resources
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.FormCreateUser.resources
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.FormCustomPopup.resources
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.FormLogin.resources
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.FormMainMenu.resources
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.FormUserProfile.resources
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.FormWelcome.resources
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.exe
+C:\Users\Rudinei\Desktop\Login-PIM-CIMIS-2020\Source Code-Cimes\Presentation\obj\Debug\Presentation.pdb
