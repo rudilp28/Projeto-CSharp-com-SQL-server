@@ -1,5 +1,7 @@
 # Projeto-CSharp-com-SQL-server
 
+![gif tela inicial](https://github.com/rudilp28/Projeto-CSharp-com-SQL-server/blob/master/ezgif.com-gif.gif)
+
 Projeto feito em 2 partes uma em Desktop .NET.Core e outro web/mobile em Asp.Net 
 com BDD SQL Server onde são ligados os 2 programas 
 
